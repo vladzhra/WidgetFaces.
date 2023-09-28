@@ -1,0 +1,33 @@
+#🌟 WidgetFaces: Epitech Survivor Swimming Pool Trombinoscope 🌟
+🚀 Introduction:
+WidgetFaces is an innovative application developed as part of the Epitech Survivor Swimming Pool project. The primary objective of this application is to create a dynamic and interactive trombinoscope using widgets, providing a visual representation of participants in the swimming pool.
+
+#🎯 Purpose:
+The application aims to facilitate the identification and recognition of participants through customizable widgets, enhancing the user experience and interaction within the Epitech community.
+
+#🛠️ Features:
+
+Interactive Widgets: Users can personalize their widgets with various styles and information, creating a unique identity in the swimming pool.
+Dynamic Trombinoscope: The trombinoscope updates in real-time, reflecting the current status and ranking of participants.
+User-Friendly Interface: With an intuitive design, WidgetFaces is accessible and easy to navigate for all users.
+Responsive Design: The application is optimized for various devices, ensuring a seamless experience on desktops, tablets, and smartphones.
+
+#RUN PROGRAM (expo)
+npm install && npx expo start --tunnel
+
+#RUN TESTS (jest)
+npm test
+
+#Don't forget to create a .env file with your own API key
+
+Exemple:
+```
+API_KEY_GOOGLE = '<your_google_api_key>'
+API_KEY_MASURAO = '<your_masurao_api_key>'
+API_KEY_CHAT = '<your_chatgpt_azure_api_key>'
+API_KEY_METEO = '<your_openweathermap_api_key>'
+API_KEY_BLAGUE = '<your_blagues_api_key>'
+ENTREPRISE = 'epitech'
+```
+
+#📝 Authors: Vlad, Charles, Guillaume, and Thomas
